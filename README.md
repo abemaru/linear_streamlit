@@ -7,11 +7,11 @@
 - `streamlit`
 
 ### 環境整備
-```bash
+```console
 $ pipenv install
 ```
 
 ### 動作方法
-```bash
+```console
 $ pipenv run streamlit run src/main.py
 ```
